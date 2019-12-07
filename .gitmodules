@@ -1,0 +1,3 @@
+[submodule "seleniumgridsample"]
+	path = seleniumgridsample
+	url = git@github.com:chinu4104/seleniumgridsample.git
